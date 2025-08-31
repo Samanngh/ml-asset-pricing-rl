@@ -7,7 +7,7 @@ MLAP/
 ├── models/           # Saved policy checkpoints
 ├── scripts/
 │   ├── env.py        # Environment (portfolio simulator)
-│   ├── policy.py     # Policy network definition
+│   ├── policy.py     # Policy network definitiona
 │   ├── reinforce.py  # REINFORCE agent
 │   ├── fetch_daily_returns_yf.py  # Data download + preprocessing
 │   ├── train_policy.py  # Training loop entrypoint
