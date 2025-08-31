@@ -1,4 +1,6 @@
-📂 Project Structure
+Project Structure
+
+
 MLAP/
 ├── data/
 │   ├── raw/          # Cached downloads from yfinance
