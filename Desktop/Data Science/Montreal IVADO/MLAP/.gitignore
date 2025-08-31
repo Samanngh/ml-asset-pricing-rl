@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.ipynb_checkpoints/
+
+# Virtual envs
+.venv/
+venv/
+
+# OS
+.DS_Store
+
+# Project artifacts
+data/
+models/
+reports/
+
+# Plots/figures (optional if you want them)
+# *.png
